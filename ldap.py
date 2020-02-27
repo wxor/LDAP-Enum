@@ -21,4 +21,3 @@ def test_creds(username, password):
    ldap_client.unbind()
    return req
 
-print check_credentials(adUser, adPass)
