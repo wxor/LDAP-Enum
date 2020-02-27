@@ -17,5 +17,5 @@ if __name__ == '__main__':
 
     #passList = [line.rstrip('\n') for line in open(args.passlist)]
     #for x in passList:
-    test_creds("xxxx", "xxxxxx")
+    #test_creds("xxxx", "xxxxxx")
     test_creds(username, password) 
